@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="221d923a-331c-42dc-83e1-9a0a3d08ec8c" name="Default Changelist" comment="" />
+    <list default="true" id="221d923a-331c-42dc-83e1-9a0a3d08ec8c" name="Default Changelist" comment="Logisic regression">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <list id="22833312-2771-45e3-91f7-312cdda474b7" name="idea" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1X40wijcDbWJVckpIKdsPTjzik3" />
   <component name="ProjectViewState">
@@ -70,6 +86,18 @@
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
     <state x="375" y="196" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1580291031808" />
+    <state x="660" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580298814309">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="660" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1842.1080@0.0.1842.1080" timestamp="1580298814309" />
+    <state x="575" y="135" key="CommitChangelistDialog2" timestamp="1580301480542">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="575" y="135" key="CommitChangelistDialog2/0.0.1842.1080@0.0.1842.1080" timestamp="1580301480542" />
+    <state x="177" y="96" key="DiffContextDialog" timestamp="1580301461806">
+      <screen x="0" y="0" width="1842" height="1080" />
+    </state>
+    <state x="177" y="96" key="DiffContextDialog/0.0.1842.1080@0.0.1842.1080" timestamp="1580301461806" />
     <state x="701" y="305" key="FileChooserDialogImpl" timestamp="1580292885469">
       <screen x="0" y="0" width="1842" height="1080" />
     </state>
