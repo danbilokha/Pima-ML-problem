@@ -3,7 +3,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import binarize
 
 
-def logistic_regression_trained(prepared_dataset):
+def logistic_regression_fit(prepared_dataset):
     model = LogisticRegression(max_iter=10000)
     model.fit(prepared_dataset.train_X, prepared_dataset.train_Y)
 

@@ -13,6 +13,6 @@ def confusion_matrix(prediction, prediction_for_results):
 
     plt.ylabel('expected label')
     plt.xlabel('predicted label')
-    plt.show()
+    # plt.show()
 
     return confusion_matrix
