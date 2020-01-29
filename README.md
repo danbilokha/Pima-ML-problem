@@ -1,5 +1,17 @@
 # Diabetes detection
 
+## Training details & Results
+1. Best model is ***LogisticRegression*** (in repository is provided).
+   - ***accuracy***: 0.7922077922077922, 
+   - ***sensivity***: 0.814,
+   - ***desicion making threshold***: 0.35. 
+2. ***Train / test split***: 0.8 / 0.2
+
+**Further improvents**:
+- [ ] try different ansambling approaches;
+- [ ] use boosting kind algorithms;
+- [ ] extend the dataset with new data in order to create useful in real life software.
+
 ## Overview
 In the repository is provided:
 
