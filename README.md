@@ -4,7 +4,7 @@
 In the repository is provided:
 
 1. Comprehensive visualization of the dataset in [PimaVisualization.ipynb](PimaVisualization.ipynb).
-2, Train and evaluate models for diabetes prediction. Run the next command in order to get train:
+2. Train and evaluate models for diabetes prediction. Run the next command in order to get train:
 
 ```shell script
 python3 index.py
