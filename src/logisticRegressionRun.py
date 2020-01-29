@@ -1,9 +1,9 @@
-from algorithms.LogisticRegression import logistic_regression_predict, \
+from src.algorithms.LogisticRegression import logistic_regression_predict, \
     logistic_regression_predict_with_shifted_threshold, \
     logistic_regression_fit
-from metrics.classification import classification_metrics
-from metrics.confusion_matrix import confusion_matrix
-from prepareData import PreparedDataset
+from src.metrics.classification import classification_metrics
+from src.metrics.confusion_matrix import confusion_matrix
+from src.prepareData import PreparedDataset
 
 
 def run():

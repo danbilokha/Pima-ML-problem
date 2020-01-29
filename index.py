@@ -1,3 +1,3 @@
-from logisticRegressionRun import run as runLogisticRegression
+from src.logisticRegressionRun import run as runLogisticRegression
 
 runLogisticRegression()
